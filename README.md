@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aditya Chauhan
+- 👀 I’m interested in the application of Data Science
+- 🌱 I’m currently learning Data Science with a keen intrest in Data Analysis
+- 📫 Reach me @LinkedIn: https://www.linkedin.com/in/aditya-c-6345a7134/
